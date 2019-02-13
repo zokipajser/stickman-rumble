@@ -54,7 +54,10 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Cat.cs" />
+     <Compile Include="Assets\Controller2D.cs" />
      <Compile Include="Assets\MainMenu.cs" />
+     <Compile Include="Assets\Player.cs" />
+     <Compile Include="Assets\RaycastController.cs" />
      <Compile Include="Assets\Virtual Joystick Pack\Examples\2D Example\Player2DExample.cs" />
      <Compile Include="Assets\Virtual Joystick Pack\Examples\3D Example\Player3DExample.cs" />
      <Compile Include="Assets\Virtual Joystick Pack\Scripts\Base\Joystick.cs" />
